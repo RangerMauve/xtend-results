@@ -1,0 +1,31 @@
+{
+  "name": "xtend-results",
+  "version": "1.0.0",
+  "description": "Passes a value through two functions and merges the resulting objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/xtend-results.git"
+  },
+  "keywords": [
+    "xtend",
+    "results",
+    "functional",
+    "merge"
+  ],
+  "author": "rangermauve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/xtend-results/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/xtend-results#readme",
+  "dependencies": {
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
